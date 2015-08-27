@@ -4,7 +4,8 @@
   "description": "Test app",
   "main": "app.js",
   "dependencies" : {
-
+      "express": "visionmedia/express",
+      "mysql": "5.7"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
